@@ -3,6 +3,7 @@
 int main(){
 
  printf("Hello world"); 
-//hello niggas
+//hello niggers
+
 
 }
